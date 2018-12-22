@@ -23,5 +23,6 @@
 {"title":"Lv120 グリームニル", "subtitle":"Lvl 120 Grimnir"},
 {"title":"Lv120 メタトロン", "subtitle":"Lvl 120 Metatron"},
 {"title":"Lv120 アバター", "subtitle":"Lvl 120 Avatar"},
-{"title":"Lv150 プロトバハムート","subtitle":"Lvl 150 Proto Bahamut (Impossible)"}
+{"title":"Lv150 プロトバハムート","subtitle":"Lvl 150 Proto Bahamut (Impossible)"},
+{"title":"Lv200 アーカーシャ","subtitle":"Lvl 200 Akasha"}
 ]
